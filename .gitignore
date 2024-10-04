@@ -5,3 +5,5 @@ dist
 node_modules
 .nuxt
 .docker-compose/mysql/data
+/server/bbs-go.dev
+/server/vendor
